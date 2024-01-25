@@ -17,7 +17,7 @@ public class BlockId {
         return blkNum;
     }
 
-    public String filename() {
+    public String fileName() {
         return filename;
     }
 }
